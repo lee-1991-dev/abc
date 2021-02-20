@@ -2,7 +2,4 @@ hello
 hello
 hello
 hello
-123
-987
-123
 hello
